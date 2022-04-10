@@ -40,4 +40,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## About
 
-I am a Java based Software Developer with experience in Springboot and JavaFX based programs. I have a background in Audio Engineering, Sound Design, and Game Development. 
+I am a Java based Software Developer with experience in Springboot and JavaFX. I have built internal workflow and operations software for companies. My background is in Audio Engineering, Sound Design, and Game Development. 
+
+## Web Applications
+
+
