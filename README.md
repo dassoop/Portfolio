@@ -78,3 +78,15 @@ Web App built for top US earning historic antique furniture dealer, California H
 {% include youtubePlayer.html id="wuRdBWV2NWk" %}
 
 ---
+### EC2 Utility
+Standalone application to manage linux based EC2 instances and quickly generate commands for SSH and SCP. 
+- Stores EC2 instance information.   
+- Quickly SSH to connect to server to SCP to copy local files on to the server. 
+
+**Languages:** Java, Html, Css
+
+**Framework:** JavaFX
+
+{% include youtubePlayer.html id="rICAnAttACY" %}
+
+---
