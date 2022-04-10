@@ -29,9 +29,9 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 ## Web Applications
 ### up-dio
 up-dio is a collaborative audio file sharing web application. 
-- Line 1 
-- Line 2 
-- Line 3 
+- Developed web app with SpringMVC and MySQL database. 
+- Deployed using Docker, AWS Elastic Cloud Compute, and AWS Load Balancer
+- Built with Java back-end and JSP front-end. 
 
 **Languages:** Java, Javascript, Html, Css
 
