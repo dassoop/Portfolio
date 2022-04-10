@@ -78,6 +78,7 @@ Web App built for top US earning historic antique furniture dealer, California H
 {% include youtubePlayer.html id="wuRdBWV2NWk" %}
 
 ---
+## Standalone Programs
 ### EC2 Utility
 Standalone application to manage linux based EC2 instances and quickly generate commands for SSH and SCP. 
 - Stores EC2 instance information.   
@@ -88,5 +89,29 @@ Standalone application to manage linux based EC2 instances and quickly generate 
 **Framework:** JavaFX
 
 {% include youtubePlayer.html id="rICAnAttACY" %}
+
+---
+### num-dio
+Application used to sequentially number files. 
+- Add or remove numbers from files.  
+- Drag and drop files to re-order numbering. 
+- Add in partially numbered lists to auto re-number. 
+
+**Languages:** Java, Html, Css
+
+**Framework:** JavaFX
+
+{% include youtubePlayer.html id="RK8YsZLTDLM" %}
+
+---
+### jdkSwitch
+Application used to quickly change the current version of Java running on your machine. 
+- Quickly copy in terminal commands to change version. 
+
+**Languages:** Java, Html, Css
+
+**Framework:** JavaFX
+
+{% include youtubePlayer.html id="TN3R9ff6xAM" %}
 
 ---
