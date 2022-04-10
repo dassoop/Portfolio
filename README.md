@@ -33,5 +33,7 @@ up-dio is a collaborative audio file sharing web application.
 - Line 2 
 - Line 3 
 
-**Languages:**
+**Languages:** Java, Javascript, Html, Css
+
+**Frameworks:** Springboot
 
