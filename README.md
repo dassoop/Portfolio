@@ -29,11 +29,3 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 ## Web Applications
 <br>
 ### up-dio
-<br>
-up-dio is a collaborative audio file sharing tool. 
-- Line 1 
-- Line 2 
-- Line 3
-<br>
-**Languages:** Java, Javascript, Html, Css
-
