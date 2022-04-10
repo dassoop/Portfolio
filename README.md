@@ -40,4 +40,17 @@ up-dio is a collaborative audio file sharing web application.
 {% include youtubePlayer.html id="GrithpTAtv4" %}
 
 ---
+### ThriftyFriend
+Thrifty Friend is a web app used to track average prices of items on ebay over time. 
+- Lead 4 person team in development.
+- Built the back-end and used the implemented ebay API to write the main business logic.  
+- Built with SpringMVC and MySQL database.  
+
+**Languages:** Java, Javascript, Html, Css
+
+**Framework:** Springboot
+
+{% include youtubePlayer.html id="TlmJSB87SXo" %}
+
+---
 
