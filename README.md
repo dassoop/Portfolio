@@ -65,3 +65,16 @@ Internal web app built for Nursery supply company to track vendors and team memb
 {% include youtubePlayer.html id="OWReb-MpHrc" %}
 
 ---
+### Trello Scanner
+Web App built for top US earning historic antique furniture dealer, California Historical Design. Used as an inventory management tool for a Trello based inventory system.
+- Used to scan items between storage and display locations.   
+- Built with SpringMVC and MySQL database. 
+- JS based QR scanner.  
+
+**Languages:** Java, Javascript, Html, Css
+
+**Framework:** Springboot
+
+{% include youtubePlayer.html id="wuRdBWV2NWk" %}
+
+---
