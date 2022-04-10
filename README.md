@@ -9,6 +9,32 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 **Email:** ssummer.lance@gmail.com
 
 ## Web Applications
+
+### Nursery Dashboard
+Internal web app built for Nursery supply company to track vendors and team members. 
+- Built for start up company and used as proof of concept, leading to a secured deal.   
+- Built with SpringMVC and MySQL database.  
+
+**Languages:** Java, Javascript, Html, Css
+
+**Framework:** Springboot
+
+{% include youtubePlayer.html id="OWReb-MpHrc" %}
+
+---
+### Trello Scanner
+Web App built for top US earning historic antique furniture dealer, California Historical Design. Used as an inventory management tool for a Trello based inventory system.
+- Used to scan items between storage and display locations.   
+- Built with SpringMVC and MySQL database. 
+- JS based QR scanner.  
+
+**Languages:** Java, Javascript, Html, Css
+
+**Framework:** Springboot
+
+{% include youtubePlayer.html id="wuRdBWV2NWk" %}
+
+---
 ### up-dio
 up-dio is a collaborative audio file sharing web application. 
 - Developed web app with SpringMVC and MySQL database. 
@@ -33,31 +59,6 @@ Thrifty Friend is a web app used to track average prices of items on ebay over t
 **Framework:** Springboot
 
 {% include youtubePlayer.html id="TlmJSB87SXo" %}
-
----
-### Nursery Dashboard
-Internal web app built for Nursery supply company to track vendors and team members. 
-- Built for start up company and used as proof of concept, leading to a secured deal.   
-- Built with SpringMVC and MySQL database.  
-
-**Languages:** Java, Javascript, Html, Css
-
-**Framework:** Springboot
-
-{% include youtubePlayer.html id="OWReb-MpHrc" %}
-
----
-### Trello Scanner
-Web App built for top US earning historic antique furniture dealer, California Historical Design. Used as an inventory management tool for a Trello based inventory system.
-- Used to scan items between storage and display locations.   
-- Built with SpringMVC and MySQL database. 
-- JS based QR scanner.  
-
-**Languages:** Java, Javascript, Html, Css
-
-**Framework:** Springboot
-
-{% include youtubePlayer.html id="wuRdBWV2NWk" %}
 
 ---
 ## Standalone Programs
