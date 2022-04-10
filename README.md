@@ -32,6 +32,6 @@ up-dio is a collaborative audio file sharing web application.
 - Line 1 
 - Line 2 
 - Line 3 
-<br/>
+<br>
 **Languages:**
 
