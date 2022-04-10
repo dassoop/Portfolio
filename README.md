@@ -42,7 +42,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 I am a Java based Software Developer with experience in Springboot and JavaFX. I have built internal workflow and operations software for companies. My background is in Audio Engineering, Sound Design, and Game Development. 
 <br>
+<br>
 **Phone #:** 770-843-5638
+<br>
 <br>
 **Email:** ssummer.lance@gmail.com
 
