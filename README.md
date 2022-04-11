@@ -104,5 +104,6 @@ Application used to quickly change the current version of Java running on your m
 A test 2D side scrolling game made in unity. 
 - AStar Pathfinding for AI characters
 - Unity 2018.3.14
-- 
 **Languages:** C#
+
+{% include youtubePlayer.html id="RC2IU4fXJtY" %}
