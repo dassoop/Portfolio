@@ -98,6 +98,15 @@ Application used to quickly change the current version of Java running on your m
 {% include youtubePlayer.html id="TN3R9ff6xAM" %}
 
 ---
+### SoundBoard
+A sound board style controller for spotify playlists. Intended for live events 
+- Built with Spotify API
+- Unity Project
+**Languages:** C#
+
+{% include youtubePlayer.html id="AFYxkg5nIc" %}
+
+---
 
 ## Game Development
 ### VaporDude 
