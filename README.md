@@ -130,7 +130,7 @@ A low poly survival type game built in Unreal Engine
 {% include youtubePlayer.html id="gPr9bn2zIhw" %}
 
 ---
-### Steel Ressurection
+### Steel Resurrection
 An RTS/MMO game built in Unreal based around factions of WW2  
 - Built with Unreal Engine 4 
 - Sound design with Unreal blueprints and Fmod. 
