@@ -118,3 +118,23 @@ A test 2D side scrolling game made in unity.
 **Languages:** C#
 
 {% include youtubePlayer.html id="RC2IU4fXJtY" %}
+
+---
+
+### LowPoly survival test 
+A low poly survival type game built in Unreal Engine
+- Blender used for character and enviornment modeling
+- UE 4
+**Languages:** Unreal Blueprints 
+
+{% include youtubePlayer.html id="gPr9bn2zIhw" %}
+
+---
+
+### Steel Ressurection
+An RTS/MMO game built in Unreal based around factions of WW2  
+- Built with Unreal Engine 4 
+- Sound design with Unreal blueprints and Fmod. 
+**Languages:** Unreal Blueprints
+
+{% include youtubePlayer.html id="dYWHkaKzRfI" %}
