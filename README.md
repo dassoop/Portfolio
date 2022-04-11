@@ -103,6 +103,7 @@ A sound board style controller for spotify playlists. Intended for live events
 - Built with Spotify API
 - Unity Project
 - Redirect page built with html, js, and handlebars
+
 **Languages:** C#
 
 {% include youtubePlayer.html id="AFYxkg5nIc" %}
