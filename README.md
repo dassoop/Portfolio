@@ -141,7 +141,7 @@ An RTS/MMO game built in Unreal based around factions of WW2
 
 ---
 ### Codenames
-Licensed digital adaptation of popular board game. 
+Sound Design for licensed digital adaptation of popular board game. 
 - For use on TapTop digital board gaming console. 
 - Built with Unity 
 
@@ -151,7 +151,7 @@ Licensed digital adaptation of popular board game.
 
 ---
 ### MachiKoro
-Licensed digital adaptation of popular board game. 
+Sound Design for licensed digital adaptation of popular board game. 
 - For use on TapTop digital board gaming console. 
 - Built with Unity 
 
