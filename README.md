@@ -141,10 +141,20 @@ An RTS/MMO game built in Unreal based around factions of WW2
 
 ---
 ### Codenames
-Licensed digital adaptation of popular board game "Codenames". 
+Licensed digital adaptation of popular board game. 
 - For use on TapTop digital board gaming console. 
 - Built with Unity 
 
 **Languages:** C#
 
 {% include youtubePlayer.html id="WEWQsTV6rzo" %}
+
+---
+### MachiKoro
+Licensed digital adaptation of popular board game. 
+- For use on TapTop digital board gaming console. 
+- Built with Unity 
+
+**Languages:** C#
+
+{% include youtubePlayer.html id="s-ykAoySTLg" %}
