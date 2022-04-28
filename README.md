@@ -109,6 +109,31 @@ A sound board style controller for spotify playlists. Intended for live events
 {% include youtubePlayer.html id="D4M5K6GL2-A" %}
 
 ---
+### MacroInterface
+A program to automate mouse and keyboard button presses.  
+- Works on top of other programs
+- Save multiple lists of macros in profiles. 
+- Bind Macros to mouse or keyboard buttons. 
+
+**Languages:** Java, Css
+
+**Framework:** JavaFX
+
+{% include youtubePlayer.html id="6El8sqHkA5w" %}
+
+---
+### Artillery Calculator
+Calculate Meters into Mils for artillery calculations in Mil-Sim games like Squad and Hell Let Loose. 
+- Works on top of game windows. 
+- Seperate calculations for Russian team in Hell Let Loose. 
+
+**Languages:** Java, Css
+
+**Framework:** JavaFX
+
+{% include youtubePlayer.html id="Zb--BgydeV0" %}
+
+---
 ## Game Development
 
 ---
