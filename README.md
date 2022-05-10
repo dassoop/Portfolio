@@ -9,9 +9,11 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 **Email:** ssummer.lance@gmail.com
 <br>
 <br>
-## <a name="subheading-2">Subheading</a> || 
+[Web Applications](#web-applications)
 
-## Web Applications
+<!-- ## Web Applications -->
+
+##<a name = "web-applications"></a>Web Applications
 
 ### Nursery Dashboard
 Internal web app built for Nursery supply company to track vendors and team members. 
