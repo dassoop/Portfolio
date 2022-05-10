@@ -139,7 +139,7 @@ Calculate Meters into Mils for artillery calculations in Mil-Sim games like Squa
 {% include youtubePlayer.html id="Zb--BgydeV0" %}
 
 ---
-## <a name = "sound-design-game-development"></a>Game Development / Sound Design 
+## <a name = "sound-design-game-development"></a>Sound Design / Game Development
 
 ---
 ### Codenames
