@@ -13,7 +13,7 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 
 <!-- ## Web Applications -->
 
-##<a name = "web-applications"></a>Web Applications
+## <a name = "web-applications"></a>Web Applications
 
 ### Nursery Dashboard
 Internal web app built for Nursery supply company to track vendors and team members. 
