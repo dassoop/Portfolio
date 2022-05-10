@@ -9,7 +9,7 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 **Email:** ssummer.lance@gmail.com
 <br>
 <br>
-[Web Applications](#web-applications)
+[Web Applications](#web-applications) || [Standalone Programs](#standalone-programs) || [Sound Design / Game Development](#sound-design-game-development)
 
 <!-- ## Web Applications -->
 
@@ -66,7 +66,7 @@ Thrifty Friend is a web app used to track average prices of items on ebay over t
 {% include youtubePlayer.html id="TlmJSB87SXo" %}
 
 ---
-## Standalone Programs
+## <a name = "standalone-programs"></a>Standalone Programs
 ### EC2 Utility
 Standalone application to manage linux based EC2 instances and quickly generate commands for SSH and SCP. 
 - Stores EC2 instance information.   
@@ -139,7 +139,7 @@ Calculate Meters into Mils for artillery calculations in Mil-Sim games like Squa
 {% include youtubePlayer.html id="Zb--BgydeV0" %}
 
 ---
-## Game Development / Sound Design 
+## <a name = "sound-design-game-development"></a>Game Development / Sound Design 
 
 ---
 ### Codenames
