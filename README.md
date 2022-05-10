@@ -1,6 +1,6 @@
 ## About
 
-I am a Java based Software Developer with experience in Springboot and JavaFX. I have built internal workflow and operations software for companies. My background is in Audio Engineering, Sound Design, and Game Development. 
+I am a Java based Software Developer with experience in Springboot and JavaFX. I have built internal workflow and operations software for companies. My background is in Sound Design, Interactive Audio, Audio Engineering, and Game Development. 
 <br>
 <br>
 **Phone #:** 770-843-5638
