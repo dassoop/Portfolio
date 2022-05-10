@@ -9,9 +9,9 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 **Email:** ssummer.lance@gmail.com
 <br>
 <br>
-<p align="center">
+<span align="center">
     [Web Applications](#web-applications) || [Standalone Programs](#standalone-programs) || [Sound Design / Game Development](#sound-design-game-development)
-</p>
+</span>
 
 
 <!-- ## Web Applications -->
