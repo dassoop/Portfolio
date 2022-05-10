@@ -7,6 +7,9 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 <br>
 <br>
 **Email:** ssummer.lance@gmail.com
+<br>
+<br>
+## <a name="subheading-2">Subheading</a> || 
 
 ## Web Applications
 
@@ -164,7 +167,7 @@ Sound Design for licensed digital adaptation of popular board game.
 
 **Languages:** C#
 
-{% include youtubePlayer.html id="ea1f-v037po&ab" %}
+{% include youtubePlayer.html id="ea1f-v037po" %}
 
 ### VaporDude 
 A test 2D side scrolling game made in unity. 
