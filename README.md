@@ -144,6 +144,17 @@ Calculate Meters into Mils for artillery calculations in Mil-Sim games like Squa
 ## <a name = "ui-ux-sound-design"></a>UI/UX Sound Design 
 
 ---
+### VR - UI 
+UI/UX Sound Design for Virtual Reality menu setup. 
+- Create audible feedback to guide user through success and failure of functions and input.
+- Unity Project. 
+- UI Made by QClay.
+
+**Languages:** C#
+
+{% include youtubePlayer.html id="QG572TQjJlQ" %}
+
+---
 ### PlayTable/TapTop
 UI/UX Sound Design for digital board gaming platform Taptop(formerly PlayTable).
 - Main menu, app store, and mobile UI/UX SFX design and implementation.
@@ -154,17 +165,6 @@ UI/UX Sound Design for digital board gaming platform Taptop(formerly PlayTable).
 **Languages:** Java
 
 {% include youtubePlayer.html id="U637rv5570c" %}
-
----
-### VR - UI 
-UI/UX Sound Design for Virtual Reality menu setup. 
-- Create audible feedback to guide user through success and failure of functions and input.
-- Unity Project. 
-- UI Made by QClay.
-
-**Languages:** C#
-
-{% include youtubePlayer.html id="QG572TQjJlQ" %}
 
 ---
 ## <a name = "sound-design-game-development"></a>Sound Design / Game Development
