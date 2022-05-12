@@ -146,7 +146,10 @@ Calculate Meters into Mils for artillery calculations in Mil-Sim games like Squa
 ---
 ### PlayTable/TapTop
 UI/UX Sound Design for digital board gaming platform Taptop(formerly PlayTable).
-- Main menu, app store, and mobile UI/UX SFX design and implementation. 
+- Main menu, app store, and mobile UI/UX SFX design and implementation.
+- Create audible feedback to guide user through success and failure of functions and input.
+- Create audible personality to match the visual queues and design of the platform. 
+- Worked closely with UI/UX Designer.   
 
 **Languages:** Java
 
