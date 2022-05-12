@@ -167,6 +167,16 @@ UI/UX Sound Design for digital board gaming platform Taptop(formerly PlayTable).
 {% include youtubePlayer.html id="U637rv5570c" %}
 
 ---
+### 8 Hour Wallet 
+UI/UX Sound Design for mobile Crypto wallet app. 
+- Create audible feedback to guide user through success and failure of functions and input.
+- Unity Project. 
+
+**Languages:** C#
+
+{% include youtubePlayer.html id="NDJmJEYMVag" %}
+
+---
 ## <a name = "sound-design-game-development"></a>Sound Design / Game Development
 
 ---
