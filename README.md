@@ -10,7 +10,7 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 <br>
 <br>
 ### Sections
-[Web Applications](#web-applications) || [Standalone Programs](#standalone-programs) || [Sound Design / Game Development](#sound-design-game-development)
+[Web Applications](#web-applications) || [Standalone Programs](#standalone-programs) || [Sound Design / Game Development](#sound-design-game-development) || [UI / UX Sound Design](#ui-ux-sound-design)
 <br>
 <br>
 <!-- ## Web Applications -->
@@ -139,6 +139,18 @@ Calculate Meters into Mils for artillery calculations in Mil-Sim games like Squa
 **Framework:** JavaFX
 
 {% include youtubePlayer.html id="Zb--BgydeV0" %}
+
+---
+## <a name = "ui-ux-sound-design"></a>UI/UX Sound Design 
+
+---
+### PlayTable/TapTop
+UI/UX Sound Design for digital board gaming platform Taptop(formerly PlayTable).
+- Main menu, app store, and mobile UI/UX SFX design and implementation. 
+
+**Languages:** Java
+
+{% include youtubePlayer.html id="WEWQsTV6rzo" %}
 
 ---
 ## <a name = "sound-design-game-development"></a>Sound Design / Game Development
