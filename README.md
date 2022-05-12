@@ -156,6 +156,17 @@ UI/UX Sound Design for digital board gaming platform Taptop(formerly PlayTable).
 {% include youtubePlayer.html id="U637rv5570c" %}
 
 ---
+### VR - UI 
+UI/UX Sound Design for Virtual Reality menu setup. 
+- Create audible feedback to guide user through success and failure of functions and input.
+- Unity Project. 
+- UI Made by QClay.
+
+**Languages:** C#
+
+{% include youtubePlayer.html id="QG572TQjJlQ" %}
+
+---
 ## <a name = "sound-design-game-development"></a>Sound Design / Game Development
 
 ---
