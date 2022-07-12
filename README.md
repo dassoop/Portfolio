@@ -2,7 +2,7 @@
 
 I am a Java based Software Developer with experience in Springboot and JavaFX. I have built internal workflow and operations software for companies. 
 <br>
-As a sound designer I have experience as in Interactive Sound Design, Audio Engineering, and Game Development. I have a passion for creating immersive audio experiences and audible cues to describe the users current state. 
+As a sound designer I have experience in Interactive Sound Design, Audio Engineering, and Game Development. I have a passion for creating immersive audio experiences and audible cues to describe the users current state. 
 <br>
 <br>
 **Phone #:** 770-843-5638
