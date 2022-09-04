@@ -5,9 +5,6 @@ I am a Java based Software Developer with experience in Springboot and JavaFX. I
 As a sound designer I have experience in Interactive Sound Design, UI/UX experience design, Audio Engineering, and Game Development. I have a passion for creating immersive audio experiences and audible cues to describe the users current state. 
 <br>
 <br>
-**Phone #:** 770-843-5638
-<br>
-<br>
 **Email:** ssummer.lance@gmail.com
 <br>
 <br>
