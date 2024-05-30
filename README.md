@@ -130,6 +130,19 @@ Iterative audio/video file tracker
 {% include youtubePlayer.html id="vivRo8Ecqfo" %}
 
 ---
+### Electron Macro
+Standalone application to write and run keyboard/mouse macros. 
+- Runs in background behind fullscreen programs.   
+- Programmable global shortcuts.
+- Cross-platform for Mac and Windows 
+
+**Languages:** Javascript, Html, Css
+
+**Framework:** Electron
+
+{% include youtubePlayer.html id="AfBGi4XF4TY" %}
+
+---
 ### EC2 Utility
 Standalone application to manage linux based EC2 instances and quickly generate commands for SSH and SCP. 
 - Stores EC2 instance information.   
