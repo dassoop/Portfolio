@@ -81,6 +81,19 @@ Thrifty Friend is a web app used to track average prices of items on ebay over t
 
 ---
 ## <a name = "standalone-programs"></a>Standalone Programs
+
+### Abril
+Iterative audio/video file tracker
+- Scans any file storage structure.
+- Quickly audition and export preferred file versions
+- 
+**Languages:** Javascript, Html, Css
+
+**Framework:** Electron
+
+{% include youtubePlayer.html id="vivRo8Ecqfo" %}
+
+---
 ### EC2 Utility
 Standalone application to manage linux based EC2 instances and quickly generate commands for SSH and SCP. 
 - Stores EC2 instance information.   
