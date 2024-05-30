@@ -17,7 +17,7 @@ As a sound designer I have experience in Interactive Sound Design, UI/UX experie
 ## <a name = "web-applications"></a>Web Applications
 
 
-### MidiSwap - [https://midiswap.com](https://midiswap.com)
+### MidiSwap | [https://midiswap.com](https://midiswap.com)
 Web application build to batch convert midi files from one cc mapping to another 
 - Simple drag and drop re-mapping.  
 - Built with Express backend and pure javascript frontend  
@@ -80,7 +80,7 @@ Thrifty Friend is a web app used to track average prices of items on ebay over t
 {% include youtubePlayer.html id="TlmJSB87SXo" %}
 
 ---
-### Seed-io -  [https://seed-io-v.vercel.app/](https://seed-io-v.vercel.app/)
+### Seed-io | [https://seed-io-v.vercel.app/](https://seed-io-v.vercel.app/)
 Simple web application made to create custom seed mix for Hamsters and other Rodent pets. 
 - Webscraping of standard nutritional information.
 - Printable PDF exports.  
@@ -94,7 +94,7 @@ Simple web application made to create custom seed mix for Hamsters and other Rod
 ---
 ## <a name = "standalone-programs"></a>Standalone Programs
 
-### Abril - [https://abrilapp.com](https://abrilapp.com)
+### Abril | [https://abrilapp.com](https://abrilapp.com)
 Iterative audio/video file tracker
 - Scans any file storage structure.
 - Quickly audition and export preferred file versions
