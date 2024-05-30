@@ -179,6 +179,17 @@ Application used to quickly change the current version of Java running on your m
 {% include youtubePlayer.html id="TN3R9ff6xAM" %}
 
 ---
+### BCrypt Standalone
+Standalone UI for BCrypt encryption library. 
+- Hash and de-hash passwords for test use in DB.   
+
+**Languages:** Java, Css
+
+**Framework:** JavaFX
+
+{% include youtubePlayer.html id="UtOowC4NNkI" %}
+
+---
 ### SoundBoard
 A sound board style controller for spotify playlists. Intended for live events 
 - Built with Spotify API
