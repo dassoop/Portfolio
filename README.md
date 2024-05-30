@@ -80,7 +80,7 @@ Thrifty Friend is a web app used to track average prices of items on ebay over t
 {% include youtubePlayer.html id="TlmJSB87SXo" %}
 
 ---
-### Seed-io | [https://seed-io-v.vercel.app/](https://seed-io-v.vercel.app/)
+### Seed-io | [Live Demo](https://seed-io-v.vercel.app/)
 Simple web application made to create custom seed mix for Hamsters and other Rodent pets. 
 - Webscraping of standard nutritional information.
 - Printable PDF exports.  
@@ -92,7 +92,7 @@ Simple web application made to create custom seed mix for Hamsters and other Rod
 {% include youtubePlayer.html id="Rj_b4piWyqk" %}
 
 ---
-### Palette Generator | [https://color-palette-create.vercel.app/](https://color-palette-creator.vercel.app/))
+### Palette Generator | [Live Demo](https://color-palette-creator.vercel.app/))
 Simple web application made to create color palettes for UI/UX design. 
 - Multi-shades of chooseable colors.
 - Exportable as CSS color variables.  
@@ -104,7 +104,7 @@ Simple web application made to create color palettes for UI/UX design.
 {% include youtubePlayer.html id="Rj_b4piWyqk" %}
 
 ---
-### MO2 Calculator | [https://mo-2-calc-poc.vercel.app/](https://mo-2-calc-poc.vercel.app/)
+### MO2 Calculator | [Live Demo](https://mo-2-calc-poc.vercel.app/)
 Simple web application made to calculate mineral values for game "Mortal Online". 
 - Data pulled from game logs.
 - Persistent data stored in browser.  
