@@ -80,7 +80,7 @@ Thrifty Friend is a web app used to track average prices of items on ebay over t
 {% include youtubePlayer.html id="TlmJSB87SXo" %}
 
 ---
-### Seed-io
+### Seed-io -  [https://seed-io-v.vercel.app/](https://seed-io-v.vercel.app/)
 Simple web application made to create custom seed mix for Hamsters and other Rodent pets. 
 - Webscraping of standard nutritional information.
 - Printable PDF exports.  
