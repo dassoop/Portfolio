@@ -86,7 +86,7 @@ Thrifty Friend is a web app used to track average prices of items on ebay over t
 Iterative audio/video file tracker
 - Scans any file storage structure.
 - Quickly audition and export preferred file versions
-- 
+
 **Languages:** Javascript, Html, Css
 
 **Framework:** Electron
