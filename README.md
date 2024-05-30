@@ -80,6 +80,18 @@ Thrifty Friend is a web app used to track average prices of items on ebay over t
 {% include youtubePlayer.html id="TlmJSB87SXo" %}
 
 ---
+### Seed-io
+Simple web application made to create custom seed mix for Hamsters and other Rodent pets. 
+- Webscraping of standard nutritional information.
+- Printable PDF exports.  
+
+**Languages:** Javascript, Javascript, Html, Css
+
+**Framework:** Express
+
+{% include youtubePlayer.html id="Rj_b4piWyqk" %}
+
+---
 ## <a name = "standalone-programs"></a>Standalone Programs
 
 ### Abril - [https://abrilapp.com](https://abrilapp.com)
