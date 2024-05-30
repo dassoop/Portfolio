@@ -1,6 +1,6 @@
 ## About
 
-I am a Java based Software Developer with experience in Springboot and JavaFX. I have built internal workflow and operations software for companies. 
+I am a Full Stack Developer with experience in Springboot, Express, React, and Electron. I have built internal workflow and operations software for companies. 
 <br>
 As a sound designer I have experience in Interactive Sound Design, UI/UX experience design, Audio Engineering, and Game Development. I have a passion for creating immersive audio experiences and audible cues to describe the users current state. 
 <br>
@@ -16,6 +16,19 @@ As a sound designer I have experience in Interactive Sound Design, UI/UX experie
 
 ## <a name = "web-applications"></a>Web Applications
 
+
+### MidiSwap
+Web application build to batch convert midi files from one cc mapping to another 
+- Built for start up company and used as proof of concept, leading to a secured deal.   
+- Built with SpringMVC and MySQL database.  
+
+**Languages:** Javascript, Html, Css
+
+**Framework:** Express
+
+{% include youtubePlayer.html id="ipPXdNRYEMs" %}
+
+---
 ### Nursery Dashboard
 Internal web app built for Nursery supply company to track vendors and team members. 
 - Built for start up company and used as proof of concept, leading to a secured deal.   
