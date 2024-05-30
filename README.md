@@ -90,6 +90,17 @@ Simple web application made to create custom seed mix for Hamsters and other Rod
 **Framework:** Express
 
 {% include youtubePlayer.html id="Rj_b4piWyqk" %}
+---
+### Palette Generator | [https://color-palette-create.vercel.app/](https://color-palette-creator.vercel.app/))
+Simple web application made to create color palettes for UI/UX design. 
+- Multi-shades of chooseable colors.
+- Exportable as CSS color variables.  
+
+**Languages:** Javascript, Javascript, Html, Css
+
+**Framework:** Express
+
+{% include youtubePlayer.html id="Rj_b4piWyqk" %}
 
 ---
 ## <a name = "standalone-programs"></a>Standalone Programs
