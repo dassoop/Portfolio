@@ -17,8 +17,7 @@ As a sound designer I have experience in Interactive Sound Design, UI/UX experie
 ## <a name = "web-applications"></a>Web Applications
 
 
-### MidiSwap - 
-[https://midiswap.com](https://midiswap.com)
+### MidiSwap - [https://midiswap.com](https://midiswap.com)
 Web application build to batch convert midi files from one cc mapping to another 
 - Simple drag and drop re-mapping.  
 - Built with Express backend and pure javascript frontend  
