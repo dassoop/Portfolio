@@ -19,8 +19,8 @@ As a sound designer I have experience in Interactive Sound Design, UI/UX experie
 
 ### MidiSwap
 Web application build to batch convert midi files from one cc mapping to another 
-- Built for start up company and used as proof of concept, leading to a secured deal.   
-- Built with SpringMVC and MySQL database.  
+- Simple drag and drop re-mapping.  
+- Built with Express backend and pure javascript frontend  
 
 **Languages:** Javascript, Html, Css
 
