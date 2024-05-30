@@ -104,6 +104,18 @@ Simple web application made to create color palettes for UI/UX design.
 {% include youtubePlayer.html id="Rj_b4piWyqk" %}
 
 ---
+### MO2 Calculator | [https://mo-2-calc-poc.vercel.app/](https://mo-2-calc-poc.vercel.app/)) https://mo-2-calc-poc.vercel.app/
+Simple web application made to calculate mineral values for game "Mortal Online". 
+- Data pulled from game logs.
+- Persistent data stored in browser.  
+
+**Languages:** Javascript, Javascript, Html, Css
+
+**Framework:** Express
+
+{% include youtubePlayer.html id="Rj_b4piWyqk" %}
+
+---
 ## <a name = "standalone-programs"></a>Standalone Programs
 
 ### Abril | [https://abrilapp.com](https://abrilapp.com)
