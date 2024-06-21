@@ -89,7 +89,7 @@ Simple web application made to create custom seed mix for Hamsters and other Rod
 
 **Framework:** Express
 
-{% include youtubePlayer.html id="Rj_b4piWyqk" %}
+{% include youtubePlayer.html id="27mTPwNIXcA" %}
 
 ---
 ### Palette Generator | [Live Demo](https://color-palette-creator.vercel.app/)
@@ -101,7 +101,7 @@ Simple web application made to create color palettes for UI/UX design.
 
 **Framework:** Express
 
-{% include youtubePlayer.html id="NYF_D6QMm84" %}
+{% include youtubePlayer.html id="Ow7M4K8iHPM" %}
 
 ---
 ### MO2 Calculator | [Live Demo](https://mo-2-calc-poc.vercel.app/)
@@ -113,7 +113,7 @@ Simple web application made to calculate mineral values for game "Mortal Online"
 
 **Framework:** Express
 
-{% include youtubePlayer.html id="U4GQl-x-lz4" %}
+{% include youtubePlayer.html id="8VPfjGig_-I" %}
 
 ---
 ## <a name = "standalone-programs"></a>Standalone Programs
