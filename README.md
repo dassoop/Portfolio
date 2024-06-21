@@ -101,7 +101,7 @@ Simple web application made to create color palettes for UI/UX design.
 
 **Framework:** Express
 
-{% include youtubePlayer.html id="Rj_b4piWyqk" %}
+{% include youtubePlayer.html id="NYF_D6QMm84" %}
 
 ---
 ### MO2 Calculator | [Live Demo](https://mo-2-calc-poc.vercel.app/)
