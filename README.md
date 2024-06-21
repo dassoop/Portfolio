@@ -113,7 +113,7 @@ Simple web application made to calculate mineral values for game "Mortal Online"
 
 **Framework:** Express
 
-{% include youtubePlayer.html id="Rj_b4piWyqk" %}
+{% include youtubePlayer.html id="U4GQl-x-lz4" %}
 
 ---
 ## <a name = "standalone-programs"></a>Standalone Programs
